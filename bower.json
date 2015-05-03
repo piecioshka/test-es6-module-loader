@@ -1,0 +1,19 @@
+{
+  "name": "test-es6-module-loader",
+  "version": "1.0.0",
+  "authors": [
+    "Piotr Kowalski <piecioshka@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "es6-module-loader": "~0.16.6",
+    "requirejs-babel": "~0.0.6"
+  }
+}

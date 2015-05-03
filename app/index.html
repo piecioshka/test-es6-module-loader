@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test-es6-module-loader</title>
+</head>
+<body>
+    <script src="../bower_components/requirejs-babel/babel-4.6.6.min.js"></script>
+    <script src="../bower_components/es6-module-loader/dist/es6-module-loader.js"></script>
+    <script>
+        System.transpiler = 'babel';
+        System.paths['*'] = 'scripts/*.js';
+        System.import('main');
+    </script>
+</body>
+</html>
