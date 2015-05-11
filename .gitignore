@@ -1,3 +1,5 @@
 .idea/
 app/components/
 .divshot-cache/
+node_modules/
+npm-debug.log

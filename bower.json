@@ -1,4 +1,5 @@
 {
+  "name": "test-es6-module-loader",
   "dependencies": {
     "es6-module-loader": "~0.16.6",
     "requirejs-babel": "~0.0.6"
