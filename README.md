@@ -6,10 +6,6 @@ Test application for `es6-module-loader`.
 
 Use [Divshot](http://docs.divshot.com/).
 
-## Logging
-
-Use [loggly.com](http://loggly.com/) for log management.
-
 ## Launch
 
 1. Fetch project

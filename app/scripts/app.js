@@ -1,4 +1,7 @@
-export default function () {
-    console.log('main.js');
-    _LTracker.push('Create application');
-};
+class Application {
+    constructor() {
+        console.log('Hello world!');
+    }
+}
+
+export default Application;
