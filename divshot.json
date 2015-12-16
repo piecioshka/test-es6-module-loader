@@ -1,5 +1,0 @@
-{
-  "name": "test-es6-module-loader",
-  "root": "./app/",
-  "clean_urls": true
-}
